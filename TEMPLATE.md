@@ -2,14 +2,14 @@
 |         ---: | :--- |
 |        Title | Standardized Tokenized Vault Interface for Sui |
 |  Description | A unified, composable, and auditable interface for tokenized vaults on Sui to enable standardized integrations across DeFi protocols. |
-|       Author | Ali Ercan Ozgokce <ali@riva-labs.io>, Osman Gocer <osman@riva-labs.io>, Doga Ozcan <doga@riva-labs.io> |
+|       Author | Ali Ercan Ozgokce <ali@rivalabs.io>, Osman Gocer <osman@rivalabs.io>, Doga Ozcan <doga@rivalabs.io> |
 |       Editor |  |
 |         Type | Standard |
 |     Category | Application |
 |      Created | 2025-09-2 |
 | Comments-URI |  |
 |       Status |  |
-|     Requires | <Optional; SIP number(s), comma separated> |
+|     Requires |  |
 
 
 ## Abstract
